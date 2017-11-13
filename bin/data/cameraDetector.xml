@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<Background>
+		<Reset_Background>0</Reset_Background>
+		<Learning_Time>10</Learning_Time>
+		<Threshold_Value>43.4216</Threshold_Value>
+	</Background>
+	<Contour_Finder>
+		<Min_area>46.1435</Min_area>
+		<Max_area>266.73</Max_area>
+		<Threshold>151.406</Threshold>
+	</Contour_Finder>
+</group>
